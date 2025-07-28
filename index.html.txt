@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MUHAMMAD SAGEER – Data Analyst & Automation Specialist</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>MUHAMMAD SAGEER</h1>
+    <p>📍 Jubilee Town, Lahore, Pakistan | 📞 +92‑3016904007 | ✉ msageersiddique@gmail.com</p>
+    <p>🔗 <a href="https://www.linkedin.com/in/muhammad-sagheer-0a638b196" target="_blank">LinkedIn</a> | <a href="https://github.com/sageer8662/" target="_blank">GitHub</a></p>
+    <h2>DATA ANALYST | AUTOMATION SPECIALIST</h2>
+    <p>4+ Years in MIS | Python & Power BI Expert | PDF & Excel Automation Specialist</p>
+  </header>
+
+  <section id="summary">
+    <h3>Professional Summary</h3>
+    <p>Results‑driven Data Analyst with 4+ years of experience in MIS (Management Information Systems), specializing in data extraction, automation, and business intelligence. Strong expertise in Python (Pandas, OpenPyXL, pdfplumber, BeautifulSoup, Matplotlib), Excel (Power Query, Pivot Tables, VBA), and Power BI. Proven track record of automating complex workflows, extracting data from PDFs, and integrating SQL databases to enhance business efficiency.</p>
+  </section>
+
+  <section id="skills">
+    <h3>Technical Skills</h3>
+    <ul>
+      <li><strong>Python & Data Tools:</strong> Pandas, OpenPyXL, pdfplumber, BeautifulSoup, Matplotlib, Requests</li>
+      <li><strong>Data Cleaning & ETL:</strong> PDF scraping (any format), Excel automation, Regex, ETL pipelines</li>
+      <li><strong>Visualization:</strong> Power BI, Excel Dashboards, Pivot Tables, Power Query</li>
+      <li><strong>Database & Automation:</strong> SQL, Python‑Excel integration, Outlook automation (Win32com)</li>
+      <li><strong>Business Applications:</strong> Sales analysis, inventory tracking, financial reporting</li>
+    </ul>
+  </section>
+
+  <section id="experience">
+    <h3>Professional Experience</h3>
+    <h4>Highoon Laboratories Limited — Data Analyst (MIS Department)</h4>
+    <ul>
+      <li>Built a Python automation tool to extract SSR files from Outlook, validate, and process data from PDFs & Excel. Reduced reporting time by 80%, from 4 hours to 15 minutes.</li>
+      <li>Used pdfplumber and Regex to scrape and clean structured data from complex PDFs, automating transformation into Excel/text files.</li>
+      <li>Automated Excel reporting using Pandas and OpenPyXL; created interactive dashboards in Power BI for real‑time insights.</li>
+      <li>Maintained large datasets for accurate sales and operational reporting; automated trend analysis to support decision-making.</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h3>Key Projects & Achievements</h3>
+
+    <div class="project">
+      <h4>Automated Data Processing System (Python)</h4>
+      <p>Developed a tool that automatically:</p>
+      <ul>
+        <li>Extracts SSR files from Outlook</li>
+        <li>Scrapes and cleans data from PDFs using pdfplumber and Regex</li>
+        <li>Processes Excel files and outputs structured text</li>
+        <li>Loads combined data into SQL for consolidated sales reporting</li>
+      </ul>
+      <p>Saved 30+ manual hours per month.</p>
+    </div>
+
+    <div class="project">
+      <h4>Power BI Sales Dashboard</h4>
+      <p>Interactive dashboards for sales performance, inventory tracking, and revenue forecasting. Helped improve decision-making with real-time KPI tracking.</p>
+    </div>
+
+    <div class="project">
+      <h4>Excel‑Python Automation for Financial Reports</h4>
+      <p>Automated monthly financial reporting by integrating Python with Excel, reducing errors and improving efficiency by 90%.</p>
+    </div>
+  </section>
+
+  <section id="education">
+    <h3>Education</h3>
+    <p><strong>BSc Mathematics & Statistics</strong></p>
+  </section>
+
+  <section id="more">
+    <h3>Additional Details</h3>
+    <p><strong>Languages:</strong> English (Fluent), Urdu (Native)</p>
+    <p><strong>Certifications:</strong> (Add your certifications here, e.g. Python for Data Science, Power BI Certification)</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Muhammad Sageer. All rights reserved.</p>
+  </footer>
+</body>
+</html>
